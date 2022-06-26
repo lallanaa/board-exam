@@ -1,7 +1,7 @@
 package com.exam.board.web;
 
 import com.exam.board.dto.BoardDto;
-import com.exam.board.entity.Board;
+import com.exam.board.domain.Board;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;

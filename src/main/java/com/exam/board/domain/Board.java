@@ -1,4 +1,4 @@
-package com.exam.board.entity;
+package com.exam.board.domain;
 
 import lombok.Getter;
 
